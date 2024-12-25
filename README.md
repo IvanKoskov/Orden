@@ -24,3 +24,18 @@ This directive will automatically include a predefined set of standard headers l
 #include <set>
 ```
 
+### 2. `#alltogether <header1> <header2> ...`
+
+**Purpose:** Includes multiple headers in one line.
+
+**How to use:**
+```cpp
+#alltogether <iostream> <vector> <map>
+
+Same as
+
+#include <iostream>
+#include <vector>
+#include <map>
+
+```
