@@ -149,15 +149,15 @@ clone using this link
 also you can just dowload zip of the project and explore
 
 `https://github.com/IvanKoskov/Orden/archive/refs/heads/main.zip`
-
-or as an easy way use use our script as you cloned the repo
-
-Run the following in the folder of project (Orden):
-
-1. `chmod +x proj_build.sh` 
-2. `./proj_build.sh`
-3. After this wait as it will compile and setup everything!
-4. If you are promted for the root password or other passwords just type them in (can be different on different systems).
+> [!TIP]
+> or as an easy way use use our script as you cloned the repo
+>
+> Run the following in the folder of project (Orden):
+>
+> 1. `chmod +x proj_build.sh` 
+> 2. `./proj_build.sh`
+> 3. After this wait as it will compile and setup everything!
+> 4. If you are promted for the root password or other passwords just type them in (can be different on different systems).
 
 
 
