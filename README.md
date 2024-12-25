@@ -150,7 +150,7 @@ also you can just dowload zip of the project and explore
 
 `https://github.com/IvanKoskov/Orden/archive/refs/heads/main.zip`
 
-or use use our bash script as you cloned the repo
+or as an easy way use use our script as you cloned the repo
 
 Run the following in the folder of project (Orden):
 
