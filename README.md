@@ -114,7 +114,7 @@ for_range (i, 0, 10) {
 
 ```
 
-### 7. `##log <message>`
+### 7. `#log <message>`
 
 **Purpose** debugging, tests. Used when you need to output checks and etc for flow control. 
 
@@ -124,7 +124,19 @@ for_range (i, 0, 10) {
 
 ```
 
+### How this works?
 
+The whole logic is something similar to macros in C++ natively. We litarally process the code BEFORE compiling it or anything else, Orden just simplifies this and also adds handy simple template init and a compiling program that will manage the code.
+
+> [!CAUTION]
+> please write your code and create files only in src folder and dont interact with build folder. It can break the program.
+> YOU MUST CREATE THE TEMPLATE
+
+### Installation 
+
+COMING SOON
+
+for now 
 
 
 
