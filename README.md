@@ -114,7 +114,7 @@ for_range (i, 0, 10) {
 
 ```
 
-### 6. `##log <message>`
+### 7. `##log <message>`
 
 **Purpose** debugging, tests. Used when you need to output checks and etc for flow control. 
 
