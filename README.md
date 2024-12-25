@@ -114,7 +114,7 @@ for_range (i, 0, 10) {
 
 ```
 
-### 7. `##log <message>`
+### 7. `#log <message>`
 
 **Purpose** debugging, tests. Used when you need to output checks and etc for flow control. 
 
@@ -123,6 +123,44 @@ for_range (i, 0, 10) {
 #log "Successed! Continue >>> "
 
 ```
+
+### How this works?
+
+The whole logic is something similar to macros in C++ natively. We litarally process the code BEFORE compiling it or anything else, Orden just simplifies this and also adds handy simple template init and a compiling program that will manage the code.
+
+> [!CAUTION]
+> please write your code and create files only in src folder and dont interact with build folder. It can break the program.
+> YOU MUST CREATE THE TEMPLATE
+
+### Installation 
+
+COMING SOON...
+
+For now run in terminal
+
+`gh repo clone IvanKoskov/Orden`
+
+or 
+
+clone using this link
+
+`https://github.com/IvanKoskov/Orden.git`
+
+also you can just dowload zip of the project and explore
+
+`https://github.com/IvanKoskov/Orden/archive/refs/heads/main.zip`
+
+or use use our bash script as you cloned the repo
+
+Run the following in the folder of project (Orden):
+
+1. `chmod +x proj_build.sh` 
+2. `./proj_build.sh`
+3. After this wait as it will compile and setup everything!
+4. If you are promted for the root password or other passwords just type them in (can be different on different systems).
+
+
+
 
 
 
