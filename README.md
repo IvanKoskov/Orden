@@ -131,6 +131,7 @@ The whole logic is something similar to macros in C++ natively. We litarally pro
 > [!CAUTION]
 > please write your code and create files only in src folder and dont interact with build folder. It can break the program.
 > YOU MUST CREATE THE TEMPLATE
+> 
 > GCC and C++ must be already installed on your system, for this follow offcial guides.
 
 ### Installation 
