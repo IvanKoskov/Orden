@@ -86,8 +86,7 @@ singleton class Singleton {
 
 This will expand into:
 
-cpp
-Copy code
+
 class Singleton {
 private:
     Singleton() = default;
