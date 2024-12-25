@@ -134,9 +134,35 @@ The whole logic is something similar to macros in C++ natively. We litarally pro
 
 ### Installation 
 
-COMING SOON
+COMING SOON...
 
-for now 
+For now run in terminal
+
+`gh repo clone IvanKoskov/Orden`
+
+or 
+
+clone using this link
+
+`https://github.com/IvanKoskov/Orden.git`
+
+also you can just dowload zip of the project and explore
+
+`https://github.com/IvanKoskov/Orden/archive/refs/heads/main.zip`
+
+or use use our bash script as you cloned the repo
+
+Run the following in the folder of project (Orden):
+
+1. `chmod +x proj_build.sh` 
+2. `./proj_build.sh`
+3. After this wait as it will compile and setup everything!
+4. If you are promted for the root password or other passwords just type them in (can be different on different systems).
+
+
+
+
+
 
 
 
